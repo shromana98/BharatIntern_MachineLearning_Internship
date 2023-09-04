@@ -1,2 +1,2 @@
 # BharatIntern_MachineLearning_Internship
-All tasks in Bharat Intern Machine Learning Internship.
+All tasks completed in Bharat Intern Machine Learning Internship.
