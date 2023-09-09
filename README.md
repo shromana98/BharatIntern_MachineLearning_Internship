@@ -1,6 +1,57 @@
 # BharatIntern_MachineLearning_Internship
 All tasks completed in Bharat Intern Machine Learning Internship.
 
+Task 2- "Wine Prediction model using Linear Regression"
+
+# Objectives:
+
+ To Predict the wine quality using Linear Regression Model.
+
+ # Dataset:
+
+I analyzed a comprehensive dataset containing the physiochemical tests results such as 'fixed acidity', 'volatile acidity', 'citric acid','residual sugar','chlorides','free sulfur dioxide','total sulfur dioxide','density','pH','sulphates','alcohol' etc. and quality on the scale of 1 to 10 of wines of the Vinho Verde variety.
+
+Attribute Information:
+
+Input variables (based on physicochemical tests):
+
+1 - fixed acidity
+
+2 - volatile acidity
+
+3 - citric acid
+
+4 - residual sugar
+
+5 - chlorides
+
+6 - free sulfur dioxide
+
+7 - total sulfur dioxide
+
+8 - density
+
+9 - pH
+
+10 - sulphates
+
+11 - alcohol
+
+Output variable (based on sensory data):
+12 - quality (score between 0 and 10)
+
+# Steps:
+
+Data pre-processing, Data cleaning, Data Visualization and Model Training and Model Prediction are the key fundamentals of this task.
+
+1. Exploratory Data Analysis: Exploratory Data Analysis (EDA) helpedto gain insights into the dataset. Visualizations helped to understand the distribution of different parameters and identify any outliers or correlations.
+  
+2. Data Preprocessing: Ensuring data quality, I performed preprocessing tasks, including handling missing values,  feature scaling, and data partitioning for training and testing purposes.
+  
+3. Model building: I have Used Linear Regression algorithm  to predict the quality of wine .
+   
+4. Prediction and Evaluation: The model is tested. R2 score  of the model is .
+
 Task 3 - "Iris Flower Classification"
 
 # Objectives: 
@@ -40,3 +91,5 @@ Data pre-processing, Data Visualization and Model Training and Model Prediction 
 3. Model building: I have Used K-Nearest Neighbours(KNN) algorithm  on the iris dataset to predict the species of iris flower given the sepal and petal dimensions.
    
 4. Prediction and Evaluation: I have created a new data frame and model is tested. Accuracy Score of the model is 97%.
+
+   At last Thankyou Bharat Intern for providing this opportunity
