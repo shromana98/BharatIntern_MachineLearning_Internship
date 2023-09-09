@@ -1,7 +1,7 @@
 # BharatIntern_MachineLearning_Internship
 All tasks completed in Bharat Intern Machine Learning Internship.
 
-Task 2- "Wine Prediction model using Linear Regression"
+# Task 2- "Wine Prediction model using Linear Regression"
 
 # Objectives:
 
@@ -52,7 +52,7 @@ Data pre-processing, Data cleaning, Data Visualization and Model Training and Mo
    
 4. Prediction and Evaluation: The model is tested. R2 score  of the model is .
 
-Task 3 - "Iris Flower Classification"
+# Task 3 - "Iris Flower Classification"
 
 # Objectives: 
 
