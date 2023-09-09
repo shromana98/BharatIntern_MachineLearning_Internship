@@ -3,7 +3,7 @@ All tasks completed in Bharat Intern Machine Learning Internship.
 
 # Task 2- "Wine Prediction model using Linear Regression"
 
-# Objectives:
+# Objectives: 
 
  To Predict the wine quality using Linear Regression Model.
 
