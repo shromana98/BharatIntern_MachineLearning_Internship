@@ -1,5 +1,37 @@
 # BharatIntern_MachineLearning_Internship
 All tasks completed in Bharat Intern Machine Learning Internship.
+Excited to share my first project under the Machine Learning Internship at Bharat Intern! 🤖🌐
+Project Overview:
+In this case study, I explored the fascinating world of housing data and used Linear Regression to predict house prices. It was a challenging and rewarding journey, and I'm thrilled to share some highlights with you!
+
+📈 Key Findings:
+Explored essential factors that influence house prices.
+Identified significant trends in the housing market.
+Developed a reliable predictive model for house price estimation.
+Extracted valuable insights into the relationships between variables.
+
+🏠 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 1: 𝑯𝒐𝒖𝒔𝒆 𝑷𝒓𝒊𝒄𝒆 𝑷𝒓𝒆𝒅𝒊𝒄𝒕𝒊𝒐𝒏
+I developed a machine learning model using linear regression to predict house prices. Check out the Jupyter notebook code for this project.
+
+I like to express my gratitude to Bharat Intern for providing this opportunity 
+Delighted to share the completion of the first task of my Machine Learning Internship at Bharat Intern.
+
+1) Overview of the Dataset: Started by taking a look at the dataset's structure and the data types of each column.
+2) Visualizing the Data: Used plotting techniques to visualize the data and plotted a correlation Heatmap. From there one thing was clear that Bathrooms , Area and Air conditioning were the making the highest impact on the pricing of Houses.
+3) Prepared the data for training and testing by splitting it.
+4) Used Regression techniques like Linear Regression, Random Forest, Lasso Regression, and PLS Regression. Other techniques such as k neighbors, Support Vector Regression were giving low accuracy score as compared to these techniques.
+ RESULTS: 
+Accuracy of PLS Regression was 62.7%
+Accuracies of Linear Regression and Lasso Regression were the same 62.66%.
+and Accuracy of RandomForest Regression was 55.32%
+
+Now using Linear Regression gives one of the highest accuracy but it also had a very high Mean Absolute Error: 826960.5885819972
+which is because of the outliers in the dataset. Same problem was faced with all the other Regression techniques. This means that while predicting the value of house my model's predictions for house prices are off by approximately $826,960.59 when compared to the true prices. This suggests that Regression might not be the optimal technique for this dataset.
+
+
+Task Title : "𝐇𝐨𝐮𝐬𝐞 𝐏𝐫𝐢𝐜𝐞 𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧"
+
+Project Description : The project involved data exploration using Pandas and data visualization with Seaborn and Matplotlib to gain insights into the dataset. After selecting relevant features and splitting the data into training and testing sets, I employed scikit-learn to build a Linear Regression model for predicting house prices.
 
 # Task 2- "Wine Prediction model using Linear Regression"
 
