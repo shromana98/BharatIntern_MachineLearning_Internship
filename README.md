@@ -33,7 +33,7 @@ Output variable :
 
 # Steps:
 
-Data pre-processing, Data cleaning, Data Visualization and Model Training and Model Prediction are the key fundamentals of this task.
+Data pre-processing, Data cleaning, Data Visualization and Model Training and Predictions are the key fundamentals of this task.
 
 1. Exploratory Data Analysis: Exploratory Data Analysis (EDA) helpedto gain insights into the dataset. Visualizations helped to understand the distribution of different parameters and identify any outliers or correlations.
   
@@ -85,7 +85,7 @@ Output variable (based on sensory data):
 
 # Steps:
 
-Data pre-processing, Data cleaning, Data Visualization and Model Training and Model Prediction are the key fundamentals of this task.
+Data pre-processing, Data cleaning, Data Visualization and Model Training and Predictions are the key fundamentals of this task.
 
 1. Exploratory Data Analysis: Exploratory Data Analysis (EDA) helpedto gain insights into the dataset. Visualizations helped to understand the distribution of different parameters and identify any outliers or correlations.
   
@@ -125,7 +125,7 @@ Attribute Information:
 -- Iris Virginica
 
 # Steps:
-Data pre-processing, Data Visualization and Model Training and Model Prediction are the key fundamentals of this task.
+Data pre-processing, Data Visualization and Model Training and  Predictions are the key fundamentals of this task.
 
 1. Exploratory Data Analysis: I thoroughly analyzed the Iris flower dataset, gaining insights into the distinctive features that set each species apart.
   
