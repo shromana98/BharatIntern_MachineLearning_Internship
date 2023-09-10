@@ -134,18 +134,3 @@ Data pre-processing, Data Visualization and Model Training and Model Prediction 
 3. Model building: I have Used K-Nearest Neighbours(KNN) algorithm  on the iris dataset to predict the species of iris flower given the sepal and petal dimensions.
    
 4. Prediction and Evaluation: I have created a new data frame and model is tested. Accuracy Score of the model is 97%.
-
-   At last Thankyou Bharat Intern for providing this opportunity
-I like to express my gratitude to Bharat Intern for providing this opportunity 
-Delighted to share the completion of the first task of my Machine Learning Internship at Bharat Intern.
-
-Project Description : The project involved data exploration using Pandas and data visualization with Seaborn and Matplotlib to gain insights into the dataset. After selecting relevant features and splitting the data into training and testing sets, I employed scikit-learn to build a Linear Regression model for predicting house prices.
-Excited to share my first project under the Machine Learning Internship at Bharat Intern! 🤖🌐
-Project Overview:
-In this case study, I explored the fascinating world of housing data and used Linear Regression to predict house prices. It was a challenging and rewarding journey, and I'm thrilled to share some highlights with you!
-
-📈 Key Findings:
-Explored essential factors that influence house prices.
-Identified significant trends in the housing market.
-Developed a reliable predictive model for house price estimation.
-Extracted valuable insights into the relationships between variables.
